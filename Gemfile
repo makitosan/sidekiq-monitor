@@ -1,7 +1,6 @@
 source "https://rubygems.org"
-ruby "2.1.6"
+ruby "2.3.0"
 
-gem "sinatra", "1.4.6"
-
-gem "sidekiq", "~> 3.5.1"
+gem "sinatra"
+gem "sidekiq"
 gem "config_env"
