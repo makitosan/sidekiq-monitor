@@ -4,8 +4,8 @@ GEM
     concurrent-ruby (1.0.4)
     config_env (0.1.2)
     connection_pool (2.2.1)
-    rack (1.6.5)
-    rack-protection (1.5.3)
+    rack (1.6.9)
+    rack-protection (1.5.5)
       rack
     redis (3.3.2)
     sidekiq (4.2.9)
@@ -31,4 +31,4 @@ RUBY VERSION
    ruby 2.3.0p0
 
 BUNDLED WITH
-   1.13.6
+   1.15.3
