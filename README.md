@@ -2,6 +2,12 @@
 
 The [sidekiq dashboard](https://github.com/mperham/sidekiq/wiki/Monitoring) as a standalone app + basic http auth.
 
+## Launch
+Before launch, restrict access source by a firewall.
+
+```
+bundle exec rackup --host 0.0.0.0 --daemon
+```
 
 ## License
 
